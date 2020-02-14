@@ -1,0 +1,19 @@
+{
+    "colors":[
+        {
+            "color": "black",
+            "category": "hue",
+            "type": "primary",
+        },
+        {
+            "color": "white",
+            "category": "value",
+            "type": "primary,"
+        },
+        {
+            "color": "blue",
+            "category": "value",
+            "type": "primary,"
+        },
+    ]
+}
